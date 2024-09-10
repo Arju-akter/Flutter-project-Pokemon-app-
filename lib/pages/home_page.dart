@@ -15,7 +15,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Material App Bar'),
+        title: const Text('Material App'),
         backgroundColor: Colors.transparent,
         elevation: 0,
         actions: const [
